@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @siamtbhuiyan
 - 👀 I’m interested in Javascript, MERN Stack, Python
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on Open source projects
 - 📫 Reach me at siamtbhuiyan@gmail.com
 
