@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @siamtbhuiyan
-- 👀 I’m interested in Javascript, MERN Stack, Python
-- 🌱 I’m currently learning MERN
-- 💞️ I’m looking to collaborate on Open source projects
-- 📫 Reach me at siamtbhuiyan@gmail.com
+![banner](https://github.com/siamtbhuiyan/siamtbhuiyan/blob/main/Personal%20Banner.png)
 
-<!---
-siamtbhuiyan/siamtbhuiyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+I am a Front-end Developer from Bangladesh. Specializing in building fast and scalable websites using React JS.
+
+I enjoy creating websites which let's me bring my ideas into reality. Ever since I developed my first website, I have been facinated with it as it feels like a blend between creativity and logic.
+
+## Skills
+* React
+* Tailwind 
+* HTML, CSS, JavaScript
+
+## Reach Me
+* Email me at siamtbhuiyan@gmail.com
+* Check out my portfolio <a href="https://www.siamtbhuiyan.com" target="_blank">here</a>.
+* Connect with me on <a href="https://www.linkedin.com/in/siamtbhuiyan/" target="_blank">Linkedin</a>.
