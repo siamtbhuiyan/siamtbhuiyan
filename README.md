@@ -18,5 +18,5 @@ I enjoy creating websites that let me bring my ideas into reality. Ever since I 
 
 ## Reach Me
 * Email me at siamtbhuiyan@gmail.com
-* Check out my portfolio <a href="[https://www.siamtbhuiyan.netlify.app/](https://siamtbhuiyan.netlify.app/)" target="_blank">here</a>.
+* Check out my portfolio <a href="https://www.siamtbhuiyan.netlify.app/" target="_blank">here</a>.
 * Connect with me on <a href="https://www.linkedin.com/in/siamtbhuiyan/" target="_blank">Linkedin</a>.
